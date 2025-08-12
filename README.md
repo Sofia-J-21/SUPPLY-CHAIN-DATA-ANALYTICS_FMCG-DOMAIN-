@@ -35,8 +35,6 @@ fact_order_lines.csv – Detailed order line transactions.
 
 fact_orders_aggregate.csv – Aggregated order data for performance KPIs.
 
-metrics_list.xlsx – Definitions of KPIs and metrics.
-
 ## Tools & Technologies
 Power BI – Data visualization and dashboard creation.
 
