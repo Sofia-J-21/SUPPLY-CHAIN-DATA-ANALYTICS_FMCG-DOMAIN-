@@ -71,6 +71,10 @@ Reduce operational inefficiencies.
 Optimize expansion strategies with data-backed insights.
 
 
+## DASHBOARD - 
+<img width="1536" height="1024" alt="Screenshot_ supply Chain Dashboard" src="https://github.com/user-attachments/assets/84c3e0dc-784b-4bbc-af20-46cc80eea12b" />
+
+
 
 
 
